@@ -1,5 +1,5 @@
 
-This repo contains 2 Dockerfiles to install the [Nix package manager](https://nixos.org/nix/) to Alpine and CentOS images.  Dockerfile_alpine is an unchanged copy of the Dockerfile from the original repo by NixOS, and the CentOS version is based off of it but developed by us.
+This repo contains Dockerfiles to install the [Nix package manager](https://nixos.org/nix/) to Alpine and CentOS images.  Dockerfile_alpine is an unchanged copy of the Dockerfile from the original repo by NixOS, and the CentOS version is based off of it but developed by us.
 
 ## For CentOS
 
